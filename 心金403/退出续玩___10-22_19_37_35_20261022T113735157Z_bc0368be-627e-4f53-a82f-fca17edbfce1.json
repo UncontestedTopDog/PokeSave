@@ -1,0 +1,71 @@
+{
+  "coreVersion" : "melonDS 1.1",
+  "gameVersion" : "心金403",
+  "id" : "BC0368BE-627E-4F53-A82F-FCA17EDBFCE1",
+  "kind" : "resume",
+  "name" : "退出续玩 · 10-22 19:37:35",
+  "romSHA256" : "4807ab2c130581cb9d4f6110fc64b41ca4807b8d28e7622ebd3c9740baed95c8",
+  "savedAt" : "2026-10-22T11:37:35.157Z",
+  "schemaVersion" : 1,
+  "screenshotBytes" : 21530,
+  "screenshotFile" : "退出续玩___10-22_19_37_35_20261022T113735157Z_bc0368be-627e-4f53-a82f-fca17edbfce1.png",
+  "screenshotOrigin" : "captured",
+  "screenshotSHA256" : "8c45d311adf42bba39cd10b934db7158aa6eeae36a53aa5a59cbc73715670a82",
+  "snapshotBytes" : 19760248,
+  "snapshotFile" : "退出续玩___10-22_19_37_35_20261022T113735157Z_bc0368be-627e-4f53-a82f-fca17edbfce1.mln",
+  "snapshotFormat" : "13.0",
+  "snapshotSHA256" : "32396090b165c96faba770e4cb4017b6d871ec1af2bfeb4ef19d68a50ddb21df",
+  "sourceDevice" : "lizhiwong的MacBook Pro",
+  "sourceDeviceID" : "AD5D8509-826A-4858-9E30-DFE76C012356",
+  "summary" : {
+    "money" : 6378409,
+    "name" : " ",
+    "party" : [
+      {
+        "form" : 1,
+        "level" : 100,
+        "name" : "超级喷火龙X",
+        "slot" : 0,
+        "species" : 6
+      },
+      {
+        "form" : 1,
+        "level" : 100,
+        "name" : "班吉拉斯 · Mega",
+        "slot" : 1,
+        "species" : 248
+      },
+      {
+        "form" : 1,
+        "level" : 100,
+        "name" : "沙奈朵 · Mega",
+        "slot" : 2,
+        "species" : 282
+      },
+      {
+        "form" : 1,
+        "level" : 100,
+        "name" : "赫拉克罗斯 · Mega",
+        "slot" : 3,
+        "species" : 214
+      },
+      {
+        "form" : 1,
+        "level" : 100,
+        "name" : "巨钳蟹 · Gigantamax",
+        "slot" : 4,
+        "species" : 99
+      },
+      {
+        "form" : 1,
+        "level" : 100,
+        "name" : "耿鬼 · Mega",
+        "slot" : 5,
+        "species" : 94
+      }
+    ],
+    "trainerID" : 9006
+  },
+  "timeFromFile" : false,
+  "uploadedAt" : "2026-10-22T11:51:28.371Z"
+}
